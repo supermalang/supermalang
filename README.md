@@ -9,7 +9,7 @@ Highly familiar with a wide variaty of data reporting tools, enterprise producti
 - 💬 Ask me about Web Development, Data Viz and Microsoft 365
 - 📫 How to reach me: [@supermalang_](https://twitter.com/supermalang_)
 
----
-[![My github stats](https://github-readme-stats.vercel.app/api?username=supermalang&hide=contribs,prs&count_private=true&show_icons=true&include_all_commits=true&theme=vue)](https://github.com/supermalang)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=supermalang&layout=compact&theme=nord)](https://github.com/supermalang)
+|||
+|---|---|
+|[![My github stats](https://github-readme-stats.vercel.app/api?username=supermalang&hide=contribs,prs&count_private=true&show_icons=true&include_all_commits=true&theme=vue)](https://github.com/supermalang) |[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=supermalang&layout=compact&theme=nord)](https://github.com/supermalang) |
