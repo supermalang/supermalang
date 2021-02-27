@@ -1,6 +1,6 @@
 ### Hi there I am Elhadji Malang 👋
 
-I am a motivated and team-work oriented IT Analyst with over 05 years of progressive experience in Web Development, Business Intelligence, Data Processing, Business Process Automation.  
+I am a motivated and team-work oriented IT Analyst with several years of progressive experience in Web Development, Business Intelligence, Data Processing, Business Process Automation.  
 Highly familiar with a wide variaty of data reporting tools, enterprise productivity tools, web development technologies, network administration softwares, Operating Systems and cloud computing platforms.
 
 ---
