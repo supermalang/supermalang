@@ -7,7 +7,7 @@ Based in Senegal, I work at the intersection of **enterprise integration**, **da
 
 I bring this same thinking to development contexts — whether it's building **M&E data pipelines**, supporting **digital transformation programs**, or designing tools for **supply chain visibility** in complex field environments. I'm experienced working with cross-functional teams, local and international stakeholders, and in contexts where capacity building is as important as the technology itself.
 
-> 🌍 Committed to building practical, human-centered digital infrastructure for the African context — and beyond.
+> 🌍 Committed to building practical, human-centered digital solutions for the African context — and beyond.
 
 ---
 
