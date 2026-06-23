@@ -1,57 +1,106 @@
 # Hi, I'm Elhadji Malang 👋
-### Digital Product Manager · Platform Integrator · ICT4D Practitioner 🇸🇳
 
-I build systems that connect people, processes, and data — in environments where technology must work reliably, be adopted by real users, and deliver measurable impact.
+### Digital Project Manager · AI & Systems Integration · Digital Impact
 
-Based in Senegal, I work at the intersection of **enterprise integration**, **data engineering**, and **Human-Centered Design**. My current work involves designing and operating an ESB platform for an industrial company, integrating ERP, production, and logistics systems at scale. Beyond integration work, I have built and deployed **SaaS tools** and production-grade infrastructure using Docker, Kubernetes, Ansible, and Traefik. I approach every project with the same question: *does this actually serve the people it's built for?*
+I build digital systems that work — under real constraints, at scale, 
+for people who depend on them.
 
-I bring this same thinking to development contexts — whether it's building **M&E data pipelines**, supporting **digital transformation programs**, or designing tools for **supply chain visibility** in complex field environments. I'm experienced working with cross-functional teams, local and international stakeholders, and in contexts where capacity building is as important as the technology itself.
+10+ years delivering production systems across humanitarian, development, 
+and private-sector contexts. Six years with UNICEF contributing to 
+Digital Impact programmes across West and Central Africa. Currently 
+leading digital transformation at Laiterie Du Berger's Dolima Factory in Sandiara — 
+architecting enterprise integrations, deploying AI solutions in 
+production, and building the systems that connect people, data, 
+and decisions.
 
-> 🌍 Committed to building practical, human-centered digital solutions for the African context — and beyond.
+I approach every project with the same question:
+*does this actually work for the people it's built for?*
+
+---
+
+## 🔭 What I'm working on
+
+- **DataBridge** — AI-assisted programme reporting tool built for 
+  UNICEF WCARO: extracts data from INFORM, uses an LLM to draft 
+  narratives and suggest charts, with Langfuse observability and 
+  a metadata-only/no-PII architecture as a privacy-by-design 
+  safeguard. Built in Python/FastAPI.
+- **Enterprise Service Bus** — self-hosted n8n integrating ERP, 
+  WMS, and CRM systems over REST, SOAP, and Kafka at 
+  Laiterie Du Berger
+- **CKA certification** — Certified Kubernetes Administrator 
+  in progress
+  
+---
+
+## 🌍 What I bring to field and leadership roles
+
+- **Field deployment** — KoboToolbox/INFORM, RapidPro, MDM, 
+  Moodle deployed in DRC, Mali, Togo, Chad, Senegal under 
+  humanitarian constraints
+- **AI applications** — LLM integration, document extraction, 
+  privacy-by-design architecture, human-in-the-loop systems
+- **Integration depth** — ESB architecture, REST/SOAP/Kafka, 
+  ETL pipelines, multi-system connectivity
+- **Capacity building** — 100+ government staff trained, 
+  standardized toolkits adopted by UNICEF Country Offices
+- **End-to-end ownership** — from problem definition to 
+  production monitoring
 
 ---
 
-- 🔭 Currently building an ESB platform integrating ERP, production & logistics systems
-- 📊 Experienced in data systems for reporting, M&E, and operational decision-making
-- 🤝 Comfortable working with NGOs, UN agencies, government, and private sector teams
-- 🌱 Exploring AI-augmented workflows and their applications in development contexts
-- 💬 Ask me about ICT4D, System Integration, HCD, Data Engineering, and Digital Project Management
-- 📫 Reach me on X: [@supermalang_](https://twitter.com/supermalang_)
-- 📍 Dakar, Senegal
+## 🛠️ Stack
 
----
+**🤖 AI & LLM:**
+`Anthropic Claude API` `OpenRouter` `Groq` `Ollama` 
+`Langfuse` `Claude Code` `LLM Orchestration`
 
 **🔗 Integration & Automation:**
-`n8n` `Kafka` `Ansible` `Scripting`
-
-**🤖 AI & Conversational Systems:**
-`AI Agents` `Chatbot Development` `LLM Orchestration`
+`n8n` `Apache Kafka` `REST` `SOAP` `Webhooks` 
+`Power Automate` `Ansible`
 
 **📊 Data & Reporting:**
-`Power BI` `Supabase` `SQL` `KoboToolbox` `Excel` `RapidPro`
+`Power BI` `PostgreSQL` `Supabase` `ETL Pipelines` 
+`KoboToolbox/INFORM` `RapidPro` `DHIS2` `Excel` `R`
 
-**☁️ Infrastructure & DevOps:**
-`Docker` `Kubernetes` `Traefik` `Linux` `Ansible`
+**⚙️ Backend:**
+`Python` `FastAPI` `PHP/Symfony` `SQL`
 
-**🌐 Web & Backend Development:**
-`Symfony` `Python` `REST` `SOAP` `JavaScript`
+**🌐 Frontend:**
+`React` `Next.js` `TypeScript` `Tailwind CSS`
+
+**☁️ DevOps & Infrastructure:**
+`Docker` `Kubernetes` `Traefik` `GitHub Actions` 
+`Vercel` `Linux (LPIC-1)` `Ansible` `Coolify`
 
 **🏢 Enterprise Platforms:**
-`Microsoft 365` `SharePoint` `Power Platform` `Odoo`
+`Microsoft 365` `SharePoint` `Power Apps` 
+`Active Directory` `MDM`
 
-**Frameworks & methods:**
+**📐 Methods:**
+`Human-Centered Design` `Agile` `Design Thinking` 
+`Results-Based Management` `Privacy-by-Design`
 
-`Human-Centered Design` `Agile/Scrum` `Design Thinking` `Results-Based Management` `Data Modeling`
+---
 
-**Certifications:**
+## 📜 Certifications
 
-- 📜 CAPM — Project Management Institute
-- 📜 Results-Based Management — UNICEF/Agora
-- 📊 Analyzing & Visualizing Data with Power BI — Microsoft
-- 📊 Analyzing & Visualizing Data with Excel — Microsoft
-- ☁️ Microsoft 365 Identities and Requirements — Microsoft
-- 🗂️ SharePoint (Exam 70-331 & 70-332) — Microsoft
-- 🐧 Linux 101
+- 🎯 CAPM — Project Management Institute (PMI)
+- 🤖 IBM Design Thinking Practitioner — IBM
+- 🎨 Human-Centered Design — d-school Afrika
+- 📊 MCSA: Business Intelligence Reporting (Power BI & Excel) — Microsoft
+- ☁️ Managing Microsoft 365 Identities — Microsoft
+- 🗂️ Advanced SharePoint Server (70-331 & 70-332) — Microsoft
+- 🐧 Linux LPIC-1 — Linux Professional Institute
+- ⚙️ CKA — Certified Kubernetes Administrator *(in progress)*
+
+---
+
+## 📫 Let's connect
+
+- 💼 [LinkedIn](https://linkedin.com/in/supermalang)
+- 🐦 [X / Twitter](https://twitter.com/supermalang_)
+- 📍 Dakar, Senegal · Fluent in French & English · Open globally
 
 ---
 
